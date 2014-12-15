@@ -11,10 +11,10 @@ To access the Password Keeper application, you must do the following:
 
 2. Open Terminal Application on your Mac
 
-2. Type in: cd /Go/to/your/directory
+3. Type in: cd /Go/to/your/directory
 
-3. Once in the folder, type in: ./dist/gui_python.app/Contents/MacOS/gui_python
+4. Once in the folder, type in: ./dist/gui_python.app/Contents/MacOS/gui_python
 
-4. The above command should start the application
+5. The above command should start the application
 
-5. Enjoy!
+6. Enjoy!

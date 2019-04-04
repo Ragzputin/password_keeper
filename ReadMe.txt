@@ -1,3 +1,13 @@
+**Tasks completed for this tool:**
+1. Created a full-fledged GUI to take in passwords and the names of websites to which these passwords are associated with.
+2. Passwords/Websites go into a dictionary as key/value pairs in order to retrieve at a later point in time.
+
+**Tasks TODO:**
+1. Encryption - need to create an encryption of the data so that the passwords don't get stolen by someone else
+2. Refactor the code - need to make things simpler.
+3. Tidy up the GUI
+
+
 +++++++++++++
 +DISCLAIMER:
 +++++++++++++

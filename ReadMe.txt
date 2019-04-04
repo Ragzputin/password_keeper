@@ -4,8 +4,9 @@
 
 **Tasks TODO:**
 1. Encryption - need to create an encryption of the data so that the passwords don't get stolen by someone else
-2. Refactor the code - need to make things simpler.
-3. Tidy up the GUI
+2. Create a PIN feature to enter the application (oh the irony!)
+3. Refactor the code - need to make things simpler.
+4. Tidy up the GUI
 
 
 +++++++++++++
